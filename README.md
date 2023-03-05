@@ -13,7 +13,7 @@ Esta metodología debe ser:
 Dentro del curso logramos aprender a implementar correctamente las metologías BEM y ACSS (Atomic Design), que son las implementadas en la elaboración del proyecto final.
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169097543-d5ada41e-7db8-481d-9d89-cef4efdf7e05.png">
+     <img width="600" heigth="600" src="/fruta_&_fruto_home.png">
 </p>
 
 
