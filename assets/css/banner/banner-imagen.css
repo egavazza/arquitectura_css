@@ -1,6 +1,6 @@
 .banner__imagen {
     /* FORMA ABREVIADA DE CONFIGURAR EL ESTILO DE LA IMAGEN DE FONDO */
-    background: url(../../assets/img/banner.png) no-repeat center / cover;
+    background: url(assets/img/banner.png) no-repeat center / cover;
     /* background: url(/assets/img/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
