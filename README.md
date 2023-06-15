@@ -1,6 +1,6 @@
 # Arquitectura-CSS
 
-### Proyecto final del curso de arquictetura CSS de Alura Latam.
+### Proyecto final del curso de arquitectura CSS de Alura Latam.
 
 La __#Arquitectura-CSS__ es una metología enfocada en la estructura de un proyecto a partir de la organización del código y sus carpetas en base a una metodología de clases con el fin de lograr estandarizar el trabajo del equipo.
 
